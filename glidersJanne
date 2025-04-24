@@ -1,1 +1,17 @@
-
+[
+  {
+    "name": "Heimo Hänninen [Cumulus]",
+    "cn": "LK",
+    "glider": "LS-8st",
+    "comp": "Janne",
+    "flarm": ["465BA0"]
+  },
+  {
+    "name": "Marko Virtanen [FIN]",
+    "cn": "C9",
+    "glider": "DG-1000t",
+    "comp": "Janne",
+    "flarm": ["---"]
+  },
+  {}
+]
