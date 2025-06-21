@@ -1,0 +1,12 @@
+{
+  "comps": [
+      {
+          "id": "JK-Kuuma",
+          "name": "JK2025-Kuuma ryhma",
+          "short": "Kuuma ryhma",
+          "task": "https://www.soaringspot.com/en_gb/rayskala-masters/results/club",
+          "colour": "#0074D9"
+      }
+  ],
+  "gliders": "https://raw.githubusercontent.com/keneklof/jannenkisat2025/refs/heads/main/kuumaGliders"
+}
