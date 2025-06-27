@@ -1,7 +1,8 @@
 [
-{"name":"Kristian Roine [Nuorisoilmailijat]","cn":"NIL","glider":"Duo Discus X","comp":"Kuuma","flarm":["DDD98F"]},
+{"name":"Roine/Pohjola [Nuorisoilmailijat]","cn":"NIL","glider":"Duo Discus X","comp":"Kuuma","flarm":["DDD98F"]},
 {"name":"Petri/Martti Sucksdorff [Räyskälän Ilmailukerho]","cn":"WS","glider":"AS-33Es","comp":"Kuuma","flarm":["D01366"]},
 {"name":"Hirvola/Vierimaa [Räyskälän Ilmailukerho]","cn":"KA","glider":"Arcus T","comp":"Kuuma","flarm":["DDEA22"]},
 {"name":"Juuso Kilpeläinen [Polytekniikkojen Ilmailukerho]","cn":"AM","glider":"Arcus M","comp":"Kuuma","flarm":["D02159"]},
-{"name":"Sami Rissanen [Räyskälän Ilmailukerho]","cn":"EX","glider":"EB 28 Edition","comp":"Kuuma","flarm":["D029CB"]}
+{"name":"Sami Rissanen [Räyskälän Ilmailukerho]","cn":"EX","glider":"EB 28 Edition","comp":"Kuuma","flarm":["D029CB"]},
+{"name":"Lehto/Nurminen [Räyskälän Ilmailukerho]","cn":"AL","glider":"Ventus-2cxa FES","comp":"Open","flarm":["DDDF21"]}
 ]
