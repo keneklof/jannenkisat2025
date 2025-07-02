@@ -4,9 +4,9 @@
           "id": "JK-Molemmat",
           "name": "JK2025 Molemmat luokat",
           "short": "Molemmat luokat",
-          "task": "https://glideandseek.com?taskOneUrl=https://https://www.soaringspot.com/en_gb/jannen-kisat-2025/results/kuuma-ryhma&taskTwoUrl=https://www.soaringspot.com/en_gb/jegc2021/results/club",
+          "task": "https://glideandseek.com?taskOneUrl=https://https://www.soaringspot.com/en_gb/jannen-kisat-2025/results/kuuma-ryhma&taskTwoUrl=https://www.soaringspot.com/en_gb/jannen-kisat-2025/results/jannen-kisa",
           "colour": "#0074D9"
       }
   ],
-  "gliders": "https://raw.githubusercontent.com/keneklof/jannenkisat2025/refs/heads/main/glidersKuuma"
+  "gliders": "https://raw.githubusercontent.com/keneklof/jannenkisat2025/refs/heads/main/glidersKaikki"
 }
